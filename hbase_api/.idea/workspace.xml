@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d8f34d52-1ae5-47eb-9f00-51dc22310787" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="hbase_api" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="log4j" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HierarchyBrowserManager">
+    <option name="SORT_ALPHABETICALLY" value="true" />
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1U0x752AjPNHCMAldDzEQCWqDb3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="true" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="E:/JetBrains/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\project\java\hbase_api\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HbaseFilter">
+    <configuration name="HbaseApiDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hp.hbase.api.HbaseApiDemo" />
+      <module name="hbase_api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hp.hbase.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HbaseFilter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hp.hbase.api.HbaseFilter" />
+      <module name="hbase_api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hp.hbase.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HbaseInert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hp.hbase.api.HbaseInert" />
+      <module name="hbase_api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hp.hbase.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HbaseFilter" />
+        <item itemvalue="Application.HbaseInert" />
+        <item itemvalue="Application.HbaseApiDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8f34d52-1ae5-47eb-9f00-51dc22310787" name="Default Changelist" comment="" />
+      <created>1574507145035</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574507145035</updated>
+      <workItem from="1574507159870" duration="2073000" />
+      <workItem from="1574515677078" duration="8452000" />
+      <workItem from="1574602331749" duration="4977000" />
+      <workItem from="1574652785135" duration="4596000" />
+      <workItem from="1574690196299" duration="2818000" />
+      <workItem from="1574742486639" duration="5742000" />
+      <workItem from="1575130449545" duration="50000" />
+      <workItem from="1575219261052" duration="1075000" />
+      <workItem from="1575220543291" duration="26000" />
+      <workItem from="1575220614243" duration="578000" />
+      <workItem from="1575379668346" duration="2253000" />
+      <workItem from="1575381951790" duration="489000" />
+      <workItem from="1575382514885" duration="298000" />
+      <workItem from="1575382843611" duration="640000" />
+      <workItem from="1575383514802" duration="777000" />
+      <workItem from="1575384490207" duration="6355000" />
+      <workItem from="1575455749305" duration="1092000" />
+      <workItem from="1575463519364" duration="2915000" />
+      <workItem from="1575734347028" duration="967000" />
+      <workItem from="1575735415545" duration="1008000" />
+      <workItem from="1575736519358" duration="505000" />
+      <workItem from="1575737056979" duration="52000" />
+      <workItem from="1575793024514" duration="3252000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser" timestamp="1575794786868">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.2560.1400@0.0.1366.728" timestamp="1575794786868" />
+    <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1575384698044" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1575466460550">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1575466460550" />
+    <state width="1323" height="271" key="GridCell.Tab.0.bottom" timestamp="1575736423638">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="271" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1575736423638" />
+    <state width="1323" height="271" key="GridCell.Tab.0.center" timestamp="1575736423638">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="271" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1575736423638" />
+    <state width="1323" height="271" key="GridCell.Tab.0.left" timestamp="1575736423638">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="271" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1575736423638" />
+    <state width="1323" height="271" key="GridCell.Tab.0.right" timestamp="1575736423638">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="271" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1575736423638" />
+    <state width="1323" height="274" key="GridCell.Tab.1.bottom" timestamp="1575390850078">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="274" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1575390850078" />
+    <state width="1323" height="274" key="GridCell.Tab.1.center" timestamp="1575390850078">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="274" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1575390850078" />
+    <state width="1323" height="274" key="GridCell.Tab.1.left" timestamp="1575390850078">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="274" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1575390850078" />
+    <state width="1323" height="274" key="GridCell.Tab.1.right" timestamp="1575390850078">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="274" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1575390850078" />
+    <state x="229" y="18" key="Maven.ArtifactSearchDialog" timestamp="1575384798987">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="229" y="18" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1575384798987" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1575391310958">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1575391310958" />
+    <state x="402" y="257" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1575383972332">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="402" y="257" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728@0.0.1366.728" timestamp="1575383972332" />
+    <state x="70" y="57" key="new project wizard" timestamp="1575736586578">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="70" y="57" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1575736586578" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1575390948418">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1575390948418" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1575793859710">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.2560.1400@0.0.1366.728" timestamp="1575793859710" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1575466009043" />
+  </component>
+</project>
