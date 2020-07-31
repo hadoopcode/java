@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e505efcd-6585-4cb8-a02d-44d35a0f3870" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadAnnotationsAutomatically" value="true" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1TeazmwJZvwy0UriYzmLza4W0N8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="E:/JetBrains/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.CustomerProducerCallback">
+    <configuration name="CustomerConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="consumer.CustomerConsumer" />
+      <module name="kafka_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="consumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="producer.CustomerProducer" />
+      <module name="kafka_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="producer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerProducerCallback" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="producer.CustomerProducerCallback" />
+      <module name="kafka_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="producer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CustomerProducerCallback" />
+        <item itemvalue="Application.CustomerConsumer" />
+        <item itemvalue="Application.CustomerProducer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e505efcd-6585-4cb8-a02d-44d35a0f3870" name="Default Changelist" comment="" />
+      <created>1573823280724</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573823280724</updated>
+      <workItem from="1573823291843" duration="1311000" />
+      <workItem from="1573824809917" duration="180000" />
+      <workItem from="1573825077241" duration="3478000" />
+      <workItem from="1573878783059" duration="2837000" />
+      <workItem from="1573885343939" duration="613000" />
+      <workItem from="1573904191164" duration="12040000" />
+      <workItem from="1573950202311" duration="880000" />
+      <workItem from="1573965676976" duration="6066000" />
+      <workItem from="1573991034789" duration="6218000" />
+      <workItem from="1574948551701" duration="1349000" />
+      <workItem from="1574950947979" duration="1852000" />
+      <workItem from="1575117514567" duration="1238000" />
+      <workItem from="1575119129986" duration="352000" />
+      <workItem from="1575129841679" duration="148000" />
+      <workItem from="1575218390629" duration="106000" />
+      <workItem from="1575218527863" duration="339000" />
+      <workItem from="1575384397130" duration="59000" />
+      <workItem from="1576078209382" duration="72000" />
+      <workItem from="1576585745358" duration="217000" />
+      <workItem from="1580563142432" duration="313000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="738" y="132" key="FileChooserDialogImpl" timestamp="1575218865124">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="738" y="132" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1575218865124" />
+    <state x="368" y="9" key="SettingsEditor" timestamp="1575218688988">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="368" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1575218688988" />
+  </component>
+</project>
